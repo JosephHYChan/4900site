@@ -5,6 +5,15 @@ module.exports = {
     description: "A Gatsby.js Starter based on Photon by HTML5 UP"
   },
   plugins: [
+
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-130174223-1",
+        head: true,
+      },
+    },
+
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
@@ -21,4 +30,5 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-offline'
   ],
+  
 }
