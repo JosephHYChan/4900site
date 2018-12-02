@@ -11,6 +11,7 @@ function password () {
         <Link to="/updatesoft/">Updating Software</Link>
         <Link to="/emailsec/">Email Security</Link>
         <Link to="/sectools/">Security Tools</Link>
+        <Link to="/quiz/">Quiz</Link>
     </div>
     <div class = "title">
         <h1>What do you mean Strong Password? Mine's strong enough! I remember it, that's all I need!</h1></div>

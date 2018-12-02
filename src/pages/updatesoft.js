@@ -13,6 +13,7 @@ function updatesoft () {
         <Link to="/password/">Passwords</Link>
         <Link to="/emailsec/">Email Security</Link>
         <Link to="/sectools/">Security Tools</Link>
+        <Link to="/quiz/">Quiz</Link>
     </div>
     <div class ="paragraph">
     <h1>Frequency of Updating software</h1>

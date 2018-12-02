@@ -11,6 +11,7 @@ function emailsec () {
         <Link to="/updatesoft/">Updating Software</Link>
         <Link to="/password/">Passwords</Link>
         <Link to="/emailsec/">Email Security</Link>
+        <Link to="/quiz/">Quiz</Link>
     </div>
     <div class = "title"><h1><strong>Security Tools (for online accounts)</strong></h1><br /></div>
     <div class = "paragraph">
@@ -44,7 +45,7 @@ function emailsec () {
             <li>Here it will then give the option to send a unique code to your phone to log in, 
                 or to your email address in order to log in. This code would be the second factor 
                 you need to log in as well as your password. </li>
-        </ol><br /><br />
+        </ol><br />
 
         <h2>2FA on Google</h2>
         <ol>
@@ -62,7 +63,7 @@ function emailsec () {
                 using the instructions they give you.</li>
             <li>Click on Try it now.</li>
             <li>Open up your phone, and press yes on the dialogue it sends you.</li>
-        </ol><br /><br />
+        </ol><br />
 
         <h2>2FA on Facebook</h2>
         <ol>
@@ -73,7 +74,7 @@ function emailsec () {
             <li>Click on the button that says Get Started.</li>
             <li>Select the by text option, or the Authentication app option, and press Next. </li>
             <li>Enter the code they send you (from the Authentication app or your phone) into your computer screen.</li>
-        </ol> <br /><br />
+        </ol> <br />
 
         <h2>2FA on Instagram</h2>
         <ol>
@@ -85,7 +86,7 @@ function emailsec () {
             <li>Click the button that says Turn it on. </li>
             <li>Enter your phone number and click next.</li>
             <li>Enter the code that Instagram sends your phone, and click Done</li>
-        </ol><br /><br />
+        </ol><br />
 
         <h2>Importance of Anti-Virus Software</h2>
         Description: Anti-virus software works like the bouncer of your computer, if your computer were a nightclub. 
@@ -112,8 +113,7 @@ function emailsec () {
     <div class ="video">
   <body>
         <strong>Why is this important?</strong><br />
-        <object data="http://www.youtube.com/embed/gmALK-RsXJ8"
-        width="560" height="315"></object>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/gmALK-RsXJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </body>
     </div>
   </Layout>

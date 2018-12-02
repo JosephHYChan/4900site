@@ -11,6 +11,7 @@ function emailsec () {
         <Link to="/updatesoft/">Updating Software</Link>
         <Link to="/password/">Passwords</Link>
         <Link to="/sectools/">Security Tools</Link>
+        <Link to="/quiz/">Quiz</Link>
     </div>
     <div class = "title"><h1>Email Security</h1>    
         How to avoid phishing attacks:</div>
